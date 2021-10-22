@@ -1,10 +1,10 @@
 # ODIN RECIPES README
 
 ## Summary
-1. [Introduction](#Introduction)
-2. Project Description
-3. Learning Outcomes
-4. Review
+1. [Introduction](#introduction)
+2. [Project Description](#project_description)
+3. [Learning Outcomes](#learning_outcomes)
+4. [Review](#review)
 
 
 
