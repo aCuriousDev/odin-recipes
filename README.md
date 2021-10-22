@@ -1,7 +1,7 @@
 # ODIN RECIPES README
 
 ## Summary
-1. Introduction
+1. [Introduction](#Introduction)
 2. Project Description
 3. Learning Outcomes
 4. Review
@@ -20,10 +20,10 @@ Odin Recipes is a simple website for recipes collection. Here the author will di
 
 Odin Recipes is build on HTML5 only, as of today, don't expect those beautiful CSS3 thingy here : It's BRUTAL art you ignorant *wink*.
 There are 4 iterations :
-[x] Creation of the index.html
-[x] Creation of the first recipe page, within the recipes directory, and link it in the index.html page.
-[x] Add content to the recipe page : image, description, ingredients and steps.
-[ ] Add two more recipes, all of them linked in the home page.
+- [x]Creation of the index.html
+- [x] Creation of the first recipe page, within the recipes directory, and link it in the index.html page.
+- [x] Add content to the recipe page : image, description, ingredients and steps.
+- [ ] Add two more recipes, all of them linked in the home page.
 
 More infos can be found on : https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/recipes#assignment
 
