@@ -2,11 +2,11 @@
 
 ## Summary
 1. [Introduction](#introduction)
-2. [Project Description](#project_description)
-3. [Learning Outcomes](#learning_outcomes)
+2. [Project Description](#project-description)
+3. [Learning Outcomes](#learning-outcomes)
 4. [Review](#review)
 
-
+Note to self about links and markdown formatting[^1]
 
 ## Introduction
 
@@ -41,3 +41,5 @@ I expect that this exercise will make me more comfortable with HTML, git and pro
 
 
 The review will be added after the project is done.
+
+[^1]: Github Flavoured Markdown replace "space" in section links with "-"
