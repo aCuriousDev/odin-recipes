@@ -33,3 +33,4 @@ I expect that this exercise will make me more comfortable with HTML, git and pro
 ──────
 Review
 ──────
+The review will be added after the project is done.
