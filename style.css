@@ -1,0 +1,30 @@
+:root {
+    --bg-color: hsl(0, 0%, 100%);
+    --accent-color: hsl(37, 60%, 53%);
+    --subtitle-color: hsl(0,0%,29%);
+    --text-color: hsl(0, 0%, 29%);
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: var(--bg-color, hsl(0, 0%, 100%));
+    color: var(--text-color, #4a4a4a);
+}
+
+h1 {
+    font-size: 48px;
+    font-family: Helvetica, sans-serif;
+    font-weight: 800;
+    color: var(--accent-color, #cf983f);
+}
+
+h2 {
+    font-size: 30px;
+    color: var(--subtitle-color,#4a4a4a);
+    font-family: Helvetica, sans-serif;
+}
+
+a {
+    color: var(--accent-color)
+}
+
