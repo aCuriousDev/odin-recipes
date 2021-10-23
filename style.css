@@ -3,6 +3,7 @@
     --accent-color: hsl(37, 60%, 53%);
     --subtitle-color: hsl(0,0%,29%);
     --text-color: hsl(0, 0%, 29%);
+    --text-light-color: hsl(0, 0%, 59%);
 }
 
 body {
@@ -10,12 +11,25 @@ body {
     background-color: var(--bg-color, hsl(0, 0%, 100%));
     color: var(--text-color, #4a4a4a);
 }
+ul {
+    list-style-type: square;
+}
+
+ol {
+    list-style-type: upper-roman;
+    color: var(--text-light-color);
+}
+
+nav ul {
+    list-style: none;
+}
 
 h1 {
     font-size: 48px;
     font-family: Helvetica, sans-serif;
     font-weight: 800;
     color: var(--accent-color, #cf983f);
+    text-align: center;
 }
 
 h2 {
@@ -24,7 +38,30 @@ h2 {
     font-family: Helvetica, sans-serif;
 }
 
+h3 {
+    color: var(--subtitle-color);
+}
+
+p {
+    color: var(--text-color);
+}
+
 a {
     color: var(--accent-color)
+}
+
+
+button {
+    background-color: var(--bg-color);
+    border: solid 1px var(--accent-color);
+    color: var(--accent-color);
+    border-radius: 20px;
+    height: 25px;
+    width:85px;
+}
+
+button:hover {
+    background-color: var(--accent-color);
+    color: var(--bg-color);
 }
 
