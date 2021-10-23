@@ -1,5 +1,7 @@
 # ODIN RECIPES README
 
+> A live version is available on github pages : https://acuriousdev.github.io/odin-recipes/ feel free to check it out !
+
 ## Summary
 1. [Introduction](#introduction)
 2. [Project Description](#project-description)
